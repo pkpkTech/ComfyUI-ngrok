@@ -1,7 +1,7 @@
 # ComfyUI-ngrok
 Use ngrok to allow external access to ComfyUI.
 
-* It is not a custom node.
+*It is not a custom node.
 
 ## Installation: 
 
